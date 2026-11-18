@@ -1,0 +1,8 @@
+{
+  "description": "饭踏实滴作品集展示 Demo",
+  "miniprogramRoot": "miniprogram/",
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "fantashidi-portfolio-demo",
+  "setting": { "es6": true }
+}

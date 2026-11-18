@@ -1,0 +1,15 @@
+node_modules/
+miniprogram_npm/
+project.private.config.json
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+coverage/
+dist/
+private/
+secrets/
