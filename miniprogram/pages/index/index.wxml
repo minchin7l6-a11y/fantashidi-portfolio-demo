@@ -1,0 +1,17 @@
+<view class="page">
+  <view class="kicker">LA TABLE · 日常食记</view>
+  <view class="intro">
+    <view class="overline">一餐一念 · 演示版</view>
+    <view class="title">饭踏实滴</view>
+    <view class="description"><view>一桌家常，一份惦念。</view><view>与喜欢的人，慢慢吃饭。</view></view>
+    <view class="ornament">✧ &nbsp; BON APPÉTIT &nbsp; ✧</view>
+  </view>
+  <view class="section-title">今日，吃点什么 <text>À TABLE</text></view>
+  <view class="cards">
+    <view class="card" bindtap="showNotice"><view class="card-number">01</view><view class="card-title">一起选菜</view><view class="caption">把喜欢的味道放在餐桌上</view></view>
+    <view class="card" bindtap="showNotice"><view class="card-number">02</view><view class="card-title">菜品盲盒</view><view class="caption">给犹豫的时刻一点灵感</view></view>
+  </view>
+  <view class="section-title">一份示例菜单 <text>SAMPLE MENU</text></view>
+  <view class="dish" wx:for="{{dishes}}" wx:key="name"><view>{{item.name}}</view><text>{{item.category}}</text></view>
+  <view class="footnote">作品集展示 · 示例数据 · 所有操作仅为界面演示</view>
+</view>

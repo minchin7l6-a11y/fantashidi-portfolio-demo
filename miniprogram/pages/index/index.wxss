@@ -1,0 +1,15 @@
+ .page { padding: 44rpx 32rpx 70rpx; }
+.kicker, .overline { color: #819ba8; font-size: 21rpx; letter-spacing: 5rpx; }
+.intro { margin: 32rpx 0 48rpx; padding: 50rpx 40rpx; background: #fffdf8; border: 1rpx solid #d9e3e5; border-radius: 20rpx; box-shadow: 0 16rpx 50rpx rgba(77,104,118,.08); }
+.title { margin: 28rpx 0; color: #4d6876; font: 68rpx serif; letter-spacing: 7rpx; }
+.description { font-size: 27rpx; line-height: 1.9; color: #6d7d80; }
+.ornament { margin-top: 34rpx; color: #98adb3; font-size: 21rpx; letter-spacing: 3rpx; }
+.section-title { display: flex; justify-content: space-between; margin: 38rpx 0 24rpx; font: 34rpx serif; }
+.section-title text { color: #98adb3; font: 18rpx sans-serif; letter-spacing: 2rpx; }
+.cards { display: flex; gap: 18rpx; }
+.card { flex: 1; min-width: 0; padding: 30rpx; background: #edf2f1; border: 1rpx solid #dbe5e5; border-radius: 18rpx; }
+.card-number, .caption { color: #819ba8; font-size: 22rpx; }
+.card-title { margin: 20rpx 0 12rpx; font: 33rpx serif; }
+.dish { display: flex; justify-content: space-between; padding: 28rpx; margin-bottom: 14rpx; background: #fffdf8; border: 1rpx solid #e5ebea; border-radius: 14rpx; font-size: 28rpx; }
+.dish text, .footnote { color: #8b9b9e; font-size: 22rpx; }
+.footnote { text-align: center; margin-top: 54rpx; }
