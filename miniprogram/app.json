@@ -1,0 +1,4 @@
+{
+  "pages": ["pages/index/index"],
+  "window": { "navigationBarTitleText": "饭踏实滴 · Demo", "navigationBarBackgroundColor": "#E5EDF0", "backgroundColor": "#F8F7F2" }
+}
